@@ -1,0 +1,82 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar Styles */
+.navbar-nav .nav-link {
+    color: black !important;
+}
+
+/* Jumbotron Styles */
+.juM {
+    background-color: #E59866;
+}
+
+/* Imagenes Styles */
+img {
+    width: 1000px;
+    height: 800px;
+    object-fit: cover;
+}
+
+/* Logo Styles */
+.tamLogo {
+    width: 70px;
+    height: 50px;
+}
+
+.tamLogo2{
+    width: 70px;
+    height: 50px;
+}
+
+.card-img-top{
+width: 350px;
+height: 250px;
+}
+
+
+
+/* Navegacion Styles */
+.fuentesNav {
+    font-size: 1.2rem;
+    padding: 10px;
+}
+
+.encabezado {
+    background-color: #D5B466;
+    border-top: solid 20px #E59866;
+}
+
+a {
+    text-transform: uppercase;
+    color: black;
+}
+
+a:hover {
+    background-color: #E59866;
+    color: black;
+}
+
+/* Comidas Section Styles */
+.tituloComidas {
+    background-color: #E59866;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 20px;
+}
+
+.tituloComidas h2 {
+    font-size: 35px;
+}
+
+/* CAROUSEL NOSOTROS */
+
